@@ -1,0 +1,26 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vn.infipower.isac.management",
+            "sha256_cert_fingerprints": [
+                "EE:FA:B3:38:D2:C3:C3:D6:E4:5C:DC:BE:1C:19:B6:32:D4:85:DB:B8:44:29:82:62:7D:C1:FA:29:48:C5:6B:31"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vn.infipower.isac.management.uat",
+            "sha256_cert_fingerprints": [
+                "EE:FA:B3:38:D2:C3:C3:D6:E4:5C:DC:BE:1C:19:B6:32:D4:85:DB:B8:44:29:82:62:7D:C1:FA:29:48:C5:6B:31"
+            ]
+        }
+    }
+]
