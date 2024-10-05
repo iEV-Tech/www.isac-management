@@ -1,4 +1,11 @@
 {
+	"UpdateChargingSession": "Cập nhật phiên sạc",
+	"OfflineCharging": "Sạc thủ công",
+	"OnlineCharging": "Sạc tự động",
+	"ChargingContinue": "Tiếp tục sạc",
+	"ConfirmChargingContinue": "Xác nhận tiếp tục sạc",
+	"ChargingFinish": "Sạc hoàn tất",
+	"ConfirmChargingFinish": "Xác nhận hoàn tất phiên sạc",
 	"PinStatus": "Tình trạng PIN",
 	"MobileStation": "Trụ sạc di động",
 	"RefuseService": "Từ chối dịch vụ",

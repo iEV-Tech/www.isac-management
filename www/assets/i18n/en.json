@@ -1,4 +1,11 @@
 {
+	"UpdateChargingSession": "Update charging session",
+	"OfflineCharging": "Offline",
+	"OnlineCharging": "Online",
+	"ChargingContinue": "Continue",
+	"ConfirmChargingContinue": "Confirm continue charging",
+	"ChargingFinish": "Finish",
+	"ConfirmChargingFinish": "Confirm finish charging",
 	"PinStatus": "PIN status",
 	"MobileStation": "Mobile station",
 	"RefuseService": "Refuse service",
