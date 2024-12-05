@@ -1,4 +1,6 @@
 {
+	"DistanceRescure": "Quãng đường cứu hộ",
+	"FinishRescure":"Kết thúc cứu hộ",
 	"UpdateChargingSession": "Cập nhật phiên sạc",
 	"OfflineCharging": "Sạc thủ công",
 	"OnlineCharging": "Sạc tự động",
@@ -54,7 +56,7 @@
 	"Apply": "Áp dụng",
 	"AreYouSure": "Bạn có chắc chắn với quyết định này?",
 	"AreYouSureYouWantToStopCharging": "Bạn có chắc muốn dừng sạc?",
-	"Auth_Suggest_Mobile": "Vui lòng nhập số điện thoại để bắt đầu<br />trải nghiệm dịch vụ",
+	"Auth_Suggest_Mobile": "Vui lòng nhập số điện thoại để đăng nhập",
 	"Auth_Suggest_OTP": "Vui lòng nhập mã OTP vừa được gửi đến<br />số điện thoại",
 	"Auth_Suggest_PIN": "Vui lòng nhập mã PIN bạn đã đăng ký<br />với số điện thoại",
 	"Auth_Suggest_PIN_Confirm": "Xác nhận lại mã PIN",
